@@ -1,2 +1,4 @@
 # Importing-a-module
-Importing a full module
+
+import * as test from './test'
+test.doSomething()
